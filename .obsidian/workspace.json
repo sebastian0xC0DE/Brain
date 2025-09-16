@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "98c622b0dc6faf35",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba46bb4d95de1137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36843158442d5922",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "2d55a59e1687efdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Ada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ada"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba0777942925352d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb2c248994d9a44b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fd74dd4f16e524f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f5a2ff0d115cecc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ea4472f65e67afc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ab163bbe13761ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "1862c6ebcb1c4985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9242c77f489a6bde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tecnologia/Ada.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Ada"
+            }
+          },
+          {
+            "id": "0ce4ee0404b14b83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "bfcdd29ff5a124c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6216bcdca35077c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "2d55a59e1687efdf",
+  "lastOpenFiles": [
+    "Tecnologia/C.md",
+    "Tecnologia/Linguagem de Programação.md",
+    "Sem título.md",
+    "Tecnologia/Hardware.md",
+    "Tecnologia/Tecnologia.md",
+    "Tecnologia/Software.md",
+    "Tecnologia/Ada.md",
+    "Tecnologia/Sistemas Embarcados.md",
+    "Ciências/Ciências.md",
+    "Filosofia/Filosofia.md",
+    "Física/Física.md",
+    "Geografia/Geografia.md",
+    "História/História.md",
+    "Livros/Livros.md",
+    "Matemática/Matemática.md",
+    "Português/Português.md",
+    "Livros",
+    "Português",
+    "Ciências",
+    "Física",
+    "Geografia",
+    "História",
+    "Matemática",
+    "Tecnologia",
+    "crie um link.md",
+    "Filosofia",
+    "Bem-vindo.md"
+  ]
+}

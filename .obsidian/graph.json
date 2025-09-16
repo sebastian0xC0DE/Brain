@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Filosofia  ",
+      "color": {
+        "a": 1,
+        "rgb": 11105364
+      }
+    },
+    {
+      "query": "path:Tecnologia  ",
+      "color": {
+        "a": 1,
+        "rgb": 30668
+      }
+    },
+    {
+      "query": "path:Matemática ",
+      "color": {
+        "a": 1,
+        "rgb": 16103424
+      }
+    },
+    {
+      "query": "path:Física ",
+      "color": {
+        "a": 1,
+        "rgb": 13382451
+      }
+    },
+    {
+      "query": "path:História  ",
+      "color": {
+        "a": 1,
+        "rgb": 15105570
+      }
+    },
+    {
+      "query": "path:Geografia  ",
+      "color": {
+        "a": 1,
+        "rgb": 32896
+      }
+    },
+    {
+      "query": "path:Ciências  ",
+      "color": {
+        "a": 1,
+        "rgb": 3066993
+      }
+    },
+    {
+      "query": "path:Português  ",
+      "color": {
+        "a": 1,
+        "rgb": 8011192
+      }
+    },
+    {
+      "query": "path:Livros  ",
+      "color": {
+        "a": 1,
+        "rgb": 3719860
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5943354674829947,
+  "close": true
+}
