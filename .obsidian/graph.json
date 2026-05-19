@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Filosofia  ",
@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:Ciências  ",
+      "query": "path:Biologia  ",
       "color": {
         "a": 1,
         "rgb": 3066993
@@ -68,6 +68,13 @@
       "color": {
         "a": 1,
         "rgb": 3719860
+      }
+    },
+    {
+      "query": "path:Química  ",
+      "color": {
+        "a": 1,
+        "rgb": 1408579
       }
     }
   ],
