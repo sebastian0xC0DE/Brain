@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Ada.md",
+                "file": "Biologia/Carboidratos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ada"
+              "title": "Carboidratos"
             }
           }
         ],
@@ -180,13 +180,18 @@
   },
   "active": "2d55a59e1687efdf",
   "lastOpenFiles": [
+    "Biologia/Biologia.md",
+    "Biologia/Carboidratos.md",
+    "Química/Química.md",
+    "Tecnologia/Ada.md",
+    "Química",
+    "Biologia",
     "Tecnologia/C.md",
     "Tecnologia/Linguagem de Programação.md",
     "Sem título.md",
     "Tecnologia/Hardware.md",
     "Tecnologia/Tecnologia.md",
     "Tecnologia/Software.md",
-    "Tecnologia/Ada.md",
     "Tecnologia/Sistemas Embarcados.md",
     "Ciências/Ciências.md",
     "Filosofia/Filosofia.md",
@@ -205,7 +210,6 @@
     "Matemática",
     "Tecnologia",
     "crie um link.md",
-    "Filosofia",
     "Bem-vindo.md"
   ]
 }
