@@ -1,5 +1,5 @@
 Tags: #biologia
-Related: [[Biologia]], [[Química]], [[Nutrientes]]
+Related: [[Biologia]], [[Lipídios]], [[Nutrientes]]
 
 ## Sumário
 
@@ -55,7 +55,7 @@ Fórmula Geral: $C_nH_{2n}O_n$
 Des = Sem
 Oxi = Oxigênio
 Desoxirribose = Ribose sem um oxigênio
-Isso permite ele se ligar com outras desoxirriboses e adquirir o formato de dupla hélix do DNA 🧬
+Isso permite ele se ligar com outras desoxirriboses e adquirir o formato de dupla hélix do DNA :LiDna:
 
 ### Oligossacarídeos
 
