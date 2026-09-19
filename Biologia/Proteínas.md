@@ -47,10 +47,10 @@ Um aminoácido ($-NH_2$) + Grupo de carboxila ($-COOH$)
 ## Origem Animal
 - carnes (geral).
 
-## Origem animal
+## Origem Vegetal
 - Feijão;
 - Lentilha;
 - Soja;
 - Quinoa;
 - Trigo;
-f- Ervilhas.
+- Ervilhas.
