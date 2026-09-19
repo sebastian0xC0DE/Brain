@@ -7,7 +7,7 @@ Related: [[Tecnologia]], [[C++]], [[C-Sharp]]
 
 # Documentação
 
-
+## Operações Bitwise
 
 ### Como ligar um bit
 

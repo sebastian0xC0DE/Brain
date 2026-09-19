@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Ada.md",
+                "file": "Biologia/Proteínas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ada"
+              "title": "Proteínas"
             }
           }
         ]
@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -171,11 +169,10 @@
   },
   "active": "36843158442d5922",
   "lastOpenFiles": [
-    "Tecnologia/Hardware.md",
-    "Tecnologia/C.md",
-    "Biologia/Proteínas.md",
     "Biologia/Lipídios.md",
+    "Biologia/Proteínas.md",
     "Biologia/Carboidratos.md",
+    "Tecnologia/C.md",
     "Biologia/Biologia.md",
     "Tecnologia/Ada.md",
     "História/História.md",
@@ -184,6 +181,7 @@
     "Biologia",
     "Tecnologia/Linguagem de Programação.md",
     "Sem título.md",
+    "Tecnologia/Hardware.md",
     "Tecnologia/Tecnologia.md",
     "Tecnologia/Software.md",
     "Tecnologia/Sistemas Embarcados.md",
