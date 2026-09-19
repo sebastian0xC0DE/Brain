@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Ada.md",
+                "file": "Tecnologia/C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ada"
+              "title": "C"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -171,16 +171,16 @@
   },
   "active": "36843158442d5922",
   "lastOpenFiles": [
+    "Biologia/Carboidratos.md",
     "Tecnologia/C.md",
+    "Biologia/Lipídios.md",
+    "Biologia/Proteínas.md",
+    "Tecnologia/Ada.md",
     "Tecnologia/Hardware.md",
     "Tecnologia/Linguagem de Programação.md",
     "Tecnologia/Sistemas Embarcados.md",
     "Tecnologia/Software.md",
     "Tecnologia/Tecnologia.md",
-    "Tecnologia/Ada.md",
-    "Biologia/Carboidratos.md",
-    "Biologia/Proteínas.md",
-    "Biologia/Lipídios.md",
     "Biologia/Biologia.md",
     "História/História.md",
     "Química/Química.md",
