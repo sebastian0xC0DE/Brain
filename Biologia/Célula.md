@@ -28,5 +28,26 @@ São células com carioterca e, consequentemente, com núcleo.
 - Lisossomos;
 - Ribossomos;
 - Peroxissomos;
+- Citoesqueleto;
 - Centríolos*;
-- Cloroplasto*;
+- Cloroplasto*.
+
+# Divisão Celular
+
+## Tipos
+
+- Mitose;
+- Meiose.
+
+### Mitose
+
+#### Etapas
+
+1. Prófase
+2. Metáfase
+3. Anáfase
+4. Telófase
+
+##### Prófase
+
+É a fase mais longa da mitose
