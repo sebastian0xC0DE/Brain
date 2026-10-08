@@ -5,6 +5,11 @@ Related: [[C]], [[Software]]
 
 1. [[#O que é?]]
 2. [[#Documentação]]
+	1. [[#Variáveis]]
+	2. [[#Estruturas Condicionais]]
+		1. [[#If Else]]
+		2. [[#Loop For]]
+	3. [[#Funções]]
 
 # O que é?
 
@@ -22,5 +27,40 @@ Para declarar uma variável em Lua, você deve escrever o nome da variável, seg
 numero = 10
 palavra = "Lua"
 boolean = True
+table = {
+	"primeiro", -- table[1]
+	"segundo",  -- table[2]
+	"terceiro", -- table[3]
+}
 ```
 
+## Estruturas Condicionais
+
+Em lua existem várias estruturas condicionais, como *if else*, *loop while* e *loop for*.
+
+### If Else
+
+```
+if x > 5 then
+	print("maior")
+else
+	print("menor ou igual")
+end
+```
+
+### Loop For
+
+```
+-- O loop continua até que a variável chegue a 10
+for i = 1, 10 do
+	print(i)
+end
+```
+
+## Funções
+
+```
+function sum(a, b)
+	return a + b
+end
+```
