@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Célula.md",
+                "file": "Tecnologia/Lua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Célula"
+              "title": "Lua"
             }
           }
         ]
@@ -171,14 +171,15 @@
   },
   "active": "36843158442d5922",
   "lastOpenFiles": [
-    "Tecnologia/Ada.md",
     "Tecnologia/C.md",
+    "Tecnologia/Lua.md",
+    "Biologia/Célula.md",
+    "Tecnologia/Ada.md",
     "Tecnologia/Hardware.md",
     "Tecnologia/Linguagem de Programação.md",
     "Tecnologia/Vulkan.md",
     "Tecnologia/Software.md",
     "Tecnologia/Sistemas Embarcados.md",
-    "Biologia/Célula.md",
     "Biologia/Carboidratos.md",
     "Biologia/Lipídios.md",
     "Biologia/Proteínas.md",
